@@ -180,7 +180,7 @@ QuizApplication/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/dsrinithi/CODSOFT_TASK-4.git
+git clone https://github.com/shruthigasri-007/CODSOFT_TASK-4.git
 ```
 
 ### Open Eclipse IDE
